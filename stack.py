@@ -18,6 +18,7 @@ class stack:
         else:
             return self.stack.pop()
 a=stack()
+print("\tSTACK IMPLEMENTATION")
 c=0
 while c!=4:
     print("1.PUSH\n2.PEEK\n3.POP")
