@@ -31,5 +31,6 @@ while c!=4:
     elif c==3:
         print(a.remove())
     else:
+        print("invalid choice")
         exit()
         
